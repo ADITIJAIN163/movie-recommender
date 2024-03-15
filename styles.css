@@ -1,0 +1,20 @@
+
+[data-testid="stApp"] {
+
+    background-color: rgb(9, 5, 5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+[data-testid="StyledLinkIconContainer"]{
+    color: aliceblue;
+}
+[data-testid="stMarkdownContainer"]{
+    font-size: larger;
+    font-style: italic;
+}
+p{
+    font-size: larger;
+    color: rgb(53, 136, 208);
+}
